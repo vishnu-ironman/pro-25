@@ -32,12 +32,11 @@ function setup() {
 function draw() {
   background("white");
   
- 
+
  
    gry.display()
    trash.display();
    base1.display();
-  
    drawSprites();
 
  
